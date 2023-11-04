@@ -1,0 +1,11 @@
+const img1="images/deer.png";
+const img2="images/jacutinga.png";
+const img3="images/jaguar.png";
+const img4="images/notebook.png";
+const img5="images/panda-bear.png";
+const img6="images/rabbit.png";
+const img7="images/turtle.png";
+const img8="images/butterfly.png";
+const img9="images/calendar.png";
+const img10="images/title.png";
+const img11="images/information.png";
